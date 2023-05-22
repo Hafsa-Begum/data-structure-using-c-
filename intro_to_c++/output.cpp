@@ -10,3 +10,5 @@ int main()
     cout<<"value of a = "<<a<<endl<<"value of b = "<<b;
     return 0;
 }
+
+//using namespace std is used to provide acces to standard library 
